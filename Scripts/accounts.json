@@ -1,0 +1,28 @@
+{
+  "accounts": [
+    {
+      "name": "Macanache",
+      "username": "MacacSburator",
+      "password": "12345678",
+      "mail": "macanache@official.com",
+      "tel": "0723242123",
+      "credit": "Stanford University"
+    },
+    {
+      "name": "Petrut Lupau",
+      "username": "PlacintarObosit",
+      "password": "lalalala99",
+      "mail": "a@dad.ro",
+      "tel": "0774404782",
+      "credit": "Oxford University"
+    },
+    {
+      "name": "aDAM",
+      "username": "MorticiaL",
+      "password": "dadadada00",
+      "mail": "a@dad.ceva.ro",
+      "tel": "0702132125",
+      "credit": "Oxford University"
+    }
+  ]
+}
